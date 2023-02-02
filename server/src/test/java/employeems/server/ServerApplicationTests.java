@@ -7,8 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ServerApplicationTests {
 
 	@Test
-	void contextLoads() {
-		 code from develop branch
+	void contextLoads(){
 	}
 
 }
